@@ -1,10 +1,12 @@
 <h1 align="center">🌍 留学申请</h1>
 
 <p align="center">
-  <a href="../index.md">首页</a> ｜ 
-  <a href="./study.md">学习辅导</a> ｜ 
-  <a href="./life.md">工作生活</a>
+  <a href="../index.md">首页</a> |
+  <a href="./life.md">工作生活</a> |
+  <a href="./study.md">学习辅导</a> 
 </p>
+
+---
 
 ---
 
