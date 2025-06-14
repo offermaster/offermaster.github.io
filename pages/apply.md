@@ -1,10 +1,3 @@
----
-layout: default
-title: 留学申请
-permalink: /apply.html
----
-
-
 <h1 align="center">🌍 留学申请</h1>
 
 <p align="center">
