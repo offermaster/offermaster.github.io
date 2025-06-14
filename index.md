@@ -2,7 +2,6 @@
   <img src="./images/logo.png" alt="OFFER MASTER Logo" width="180" />
 </p>
 
-<h1 align="center">🎓 OFFERMASTER 全球游</h1>
 
 <p align="center">
   <a href="./study.md">学习辅导</a> ｜ 
