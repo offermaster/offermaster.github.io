@@ -1,7 +1,3 @@
----
-title: 留学申请
----
-
 <h1 align="center">🌍 留学申请</h1>
 
 <p align="center">
