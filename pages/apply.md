@@ -126,4 +126,4 @@
   <img src="../images/vx.png" alt="微信二维码" width="150" />
 </p>
 
-<p align="center"><strong>扫码添加微信 hhsjnotreal，获取一对一免费评估</strong></p>
+<p align="center"><strong>扫码添加微信，获取一对一免费评估</strong></p>
