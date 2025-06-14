@@ -1,6 +1,23 @@
+_config.yml:
+
+# 网站配置
+
+# 网站基本信息
+
+# 首页文件在根目录下（index.md）
 title: OFFERMASTER 全球留学
-description: 专业留学服务
+description: 专业留学服务，助你拿下世界名校 offer
+
+# 使用远程主题
 remote_theme: pages-themes/cayman@v0.2.0
 
+# 使用的插件
 plugins:
   - jekyll-remote-theme
+
+# 让 GitHub Pages 渲染 /pages/ 目录下的 .md 文件
+include:
+  - pages
+
+# 避免 Jekyll 忽略 .md 文件
+markdown_ext: md
