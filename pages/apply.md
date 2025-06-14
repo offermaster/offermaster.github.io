@@ -67,35 +67,63 @@
 
 ---
 
-## 🎉 成功录取案例展示
+## 🎉 成功录取案例展示（按学历阶段分类）
 
-以下是部分由 OFFER MASTER 导师团队成功辅导的真实学生录取案例（部分信息脱敏处理）：
-
-| 学生（化名） | 录取院校 | 项目/专业 | 背景关键词 |
-|--------------|----------|-----------|--------------|
-| Yang 同学     | 哈佛大学 Harvard University | 建筑硕士 | 建筑设计背景，作品集精修，一对一文书指导 |
-| Shi 同学      | 斯坦福大学 Stanford University | 统计学硕士 | 海外本科 + 强数理背景 + 导师推荐 |
-| Zhang 同学    | 哥伦比亚大学 Columbia University | 统计学硕士 | 211 本科 + 实习背景 + 文书优势 |
-| Wang 同学     | 杜克大学 Duke University | 计算机科学本科 | 国内国际高中 + 编程竞赛 + 推荐信强力支持 |
-| Gong 同学     | 杜克大学 Duke University | 生物医学工程 硕博连读 | 医工交叉背景 + 本科科研丰富 + 早期套磁成功 |
-| Wang 同学     | 剑桥大学 University of Cambridge | 金融数学硕士 | 数学本 + 金融建模比赛经历 + 商业实习经验 |
-| Tong 同学     | 西北大学 Northwestern University | 计算机科学硕士 | 普通双非/海本 + 实习强背景 + 项目驱动文书 |
-| Sun 同学      | 杜克大学 Duke University | 计算机科学博士（PhD） | 本科 + 硕士双 CS + SCI论文 + 教授套磁 |
-| Yang 同学     | 哥伦比亚大学 Columbia University | 计算机科学本科 | 美高背景 + SAT 高分 + AI 项目经验 |
-| Xuan 同学     | 杜克大学 Fuqua School | 管理硕士（MQM） | 商科本 + 咨询实习 + 数据背景加持 |
-| Li 同学       | 杜克大学 Fuqua School | MBA 项目 | 海外工作经验 + GMAT 720 + 商业计划书 |
-| Shen 同学     | 康奈尔大学 Cornell University | Johnson 管理硕士 | 工商管理本科 + VC 实习 + 软硬背景平衡 |
-| Wang 同学     | 罗彻斯特大学 Rochester University | 会计 PhD | 海外硕士 + 学术推荐信 + 研究动机强 |
-| Wang 同学     | 华盛顿大学 University of Washington | 数学本科 | 中学数学竞赛强项 + 文理融合文书 |
-| 王 同学        | 纽约大学 NYU | 经济学本科 | IB 项目背景 + 国际交流 + 领导力项目 |
-| Zhao 同学     | 加州大学洛杉矶分校 UCLA | 数学本科 | AP 高分 + 美本暑校经历 + 面试表现优秀 |
+以下是由 OFFER MASTER 导师团队成功辅导的部分真实学生案例（已脱敏）：
 
 ---
 
-<p align="center"><strong>你的名字，也可以出现在这个榜单。</strong></p>
+### 🎓 本科申请案例
+
+| 学生（化名） | 录取院校 | 项目/专业 | 背景关键词 |
+|--------------|----------|-----------|--------------|
+| Wang 同学     | 杜克大学 Duke University | 计算机科学本科 | 国际高中 + 编程竞赛 + 导师推荐 |
+| Yang 同学     | 哥伦比亚大学 Columbia University | 计算机科学本科 | 美高背景 + SAT高分 + AI项目 |
+| Wang 同学     | 华盛顿大学 University of Washington | 数学本科 | 数学竞赛 + 跨学科文书 |
+| 王 同学        | 纽约大学 NYU | 经济学本科 | IB项目 + 国际交流经验 |
+| Zhao 同学     | 加州大学洛杉矶分校 UCLA | 数学本科 | AP课程 + 美本暑校经历 |
+
+---
+
+### 🎓 硕士申请案例
+
+| 学生（化名） | 录取院校 | 项目/专业 | 背景关键词 |
+|--------------|----------|-----------|--------------|
+| Yang 同学     | 哈佛大学 Harvard University | 建筑硕士 | 建筑设计背景 + 作品集精修 |
+| Shi 同学      | 斯坦福大学 Stanford University | 统计学硕士 | 海外本科 + 数理背景扎实 |
+| Zhang 同学    | 哥伦比亚大学 Columbia University | 统计学硕士 | 国内211 + 实习经历丰富 |
+| Tong 同学     | 西北大学 Northwestern University | 计算机科学硕士 | 双非背景 + 项目驱动型申请 |
+| Xuan 同学     | 杜克大学 Fuqua School | 管理硕士（MQM） | 商科本 + 咨询实习经历 |
+| Li 同学       | 杜克大学 Fuqua School | MBA 项目 | 海外工作 + GMAT高分 |
+| Shen 同学     | 康奈尔大学 Cornell University | 管理硕士（Johnson） | VC实习 + 商业背景强 |
+| Wang 同学     | 剑桥大学 University of Cambridge | 金融数学硕士 | 数学本 + 金融建模竞赛 |
+
+---
+
+### 🎓 博士申请案例
+
+| 学生（化名） | 录取院校 | 项目/专业 | 背景关键词 |
+|--------------|----------|-----------|--------------|
+| Gong 同学     | 杜克大学 Duke University | 生物医学工程 硕博连读 | 医工交叉背景 + 本科科研项目 |
+| Sun 同学      | 杜克大学 Duke University | 计算机科学博士（PhD） | 双CS学位 + 论文发表 + 套磁成功 |
+| Wang 同学     | 罗彻斯特大学 University of Rochester | 会计学博士（PhD） | 海外硕士 + 研究动机清晰 |
+
+---
+
+### 🔄 转学 & 访问学者案例
+
+| 学生（化名） | 类型 | 录取院校 | 项目/专业 | 背景关键词 |
+|--------------|------|----------|-----------|--------------|
+| Chen 同学     | 美国大学转学 | 西北大学 | 数据科学本科 | 国内大一 + 科研论文 + 强推荐信 |
+| Zhao 博士     | Visiting Scholar | 麻省理工大学 Columbia University | Engineering访问学者 | 国内高校博士 + 教授联合邀请 |
+| Han 博士     | Visiting Scholar | 哥伦比亚大学 Columbia University | Engineering访问学者 | 国内高校博士 + 教授联合邀请 |
+
+---
+
+<p align="center"><strong>你的名字，也可以出现在这个榜单！</strong></p>
 
 <p align="center">
   <img src="../images/vx.png" alt="微信二维码" width="150" />
 </p>
 
-<p align="center"><strong>扫码添加微信 hhsjnotreal 获取一对一免费评估</strong></p>
+<p align="center"><strong>扫码添加微信 hhsjnotreal，获取一对一免费评估</strong></p>
