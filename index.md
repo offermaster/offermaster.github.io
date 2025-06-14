@@ -5,7 +5,7 @@
 <h1 align="center">🎓 OFFERMASTER 全球留学</h1>
 
 <p align="center">
-  <a href="/study">学习辅导</a> ｜ 
+  <a href="/study.md">学习辅导</a> ｜ 
   <a href="/apply.md">留学申请</a> ｜ 
   <a href="/life.md">工作生活</a>
 </p>
