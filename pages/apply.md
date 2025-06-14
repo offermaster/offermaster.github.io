@@ -115,7 +115,7 @@
 | 学生（化名） | 类型 | 录取院校 | 项目/专业 | 背景关键词 |
 |--------------|------|----------|-----------|--------------|
 | Chen 同学     | 美国大学转学 | 西北大学 | 数据科学本科 | 国内大一 + 科研论文 + 强推荐信 |
-| Zhao 博士     | Visiting Scholar | 麻省理工大学 Columbia University | Engineering访问学者 | 国内高校博士 + 教授联合邀请 |
+| Zhao 博士     | Visiting Scholar | 麻省理工学院 MIT | Engineering访问学者 | 国内高校博士 + 教授联合邀请 |
 | Han 博士     | Visiting Scholar | 哥伦比亚大学 Columbia University | Engineering访问学者 | 国内高校博士 + 教授联合邀请 |
 
 ---
