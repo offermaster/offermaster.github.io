@@ -2,8 +2,8 @@
 
 <p align="center">
   <a href="../index.md">首页</a> ｜ 
-  <a href="/study.md">学习辅导</a> ｜ 
-  <a href="/life.md">工作生活</a>
+  <a href="./study.md">学习辅导</a> ｜ 
+  <a href="./life.md">工作生活</a>
 </p>
 
 ---
