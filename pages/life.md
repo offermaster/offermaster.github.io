@@ -1,9 +1,9 @@
 <h1 align="center">🏙 海外工作与生活支持</h1>
 
 <p align="center">
-  <a href="../index.md">首页</a> |
-  <a href="./apply.md">留学申请</a> |
-  <a href="./study.md">学习辅导</a> 
+  <a href="../index">首页</a> |
+  <a href="./apply">留学申请</a> |
+  <a href="./study">学习辅导</a> 
 </p>
 
 ---
